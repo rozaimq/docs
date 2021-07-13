@@ -1,4 +1,4 @@
----
+---https://github.com/github/codeql/blob/b212af08a6cffbb434f3c8a2795a579e092792fd/README.md
 title: Getting permanent links to files
 intro: 'When viewing a file on {% data variables.product.product_location %}, you can press the "y" key to update the URL to a permalink to the exact version of the file you see.'
 redirect_from:
